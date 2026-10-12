@@ -22,6 +22,7 @@ This repository hosts an engineering utility engine configured to parse, evaluat
 Clone repo
 ```
 git clone https://github.com/RAH333/auto-trim-eng-suite.git
+cd auto-trim-eng-suite
 ```
 Execute validation evaluations inside terminal environments via:
 ```bash
