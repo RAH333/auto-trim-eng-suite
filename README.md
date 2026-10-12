@@ -1,3 +1,4 @@
+![Automated Automotive Plastic Trim Parametric Validator Engine](assets/ates.jpg)
 # auto-trim-eng-suite
 Parametric Automotive Plastic Trim Design Engine & Optimization Suite. 
 
