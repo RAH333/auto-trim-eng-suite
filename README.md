@@ -8,7 +8,7 @@ This shows more than standard 3D CAD modeling. Since automotive plastic trims re
 It automates standard plastic design rules (draft angles, rib thicknesses, and doghouse dimensions), maps engineering data, and calculates assembly specifications directly linked to a Bill of Materials (BOM).
 
 # Automated Automotive Plastic Trim Parametric Validator Engine
-> **Target Role Application:** Lead Engineer - Trims Engineering CoE (Mahindra & Mahindra Ltd.)
+> **Target Role Application:** Lead Engineer - Trims Engineering CoE (TecX Private Limited)
 
 This repository hosts an engineering utility engine configured to parse, evaluate, and structure design parameter data profiles against strict injection-molding plastics design standards.
 
@@ -18,6 +18,11 @@ This repository hosts an engineering utility engine configured to parse, evaluat
 3. **Automated Gateway Quality Controls:** Integrated with GitHub Actions CI workflows (`.github/workflows/validation.yml`) acting as virtual program milestone gateways.
 
 ## Getting Started & Execution
+
+Clone repo
+```
+git clone https://github.com/RAH333/auto-trim-eng-suite.git
+```
 Execute validation evaluations inside terminal environments via:
 ```bash
 pip install -r requirements.txt
